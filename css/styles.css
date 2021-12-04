@@ -11880,3 +11880,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin: auto !important;
   transform: translate(210%);
 }
+#testimonials{
+  background-color: rgb(248, 249, 250);
+}
