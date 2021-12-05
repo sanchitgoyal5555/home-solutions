@@ -607,7 +607,9 @@ progress {
   min-width: 100%;
   height: 250px;
 }
-
+#testimonials{
+  padding-bottom: 0px;
+}
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
